@@ -1,4 +1,4 @@
-## `system-design-document/` (Assignment 4 — System Design)
+(Assignment 4 — System Design)
 
 System design document for the multi‑clinic appointment scheduling system.
 
